@@ -89,7 +89,6 @@ gallery
 
 #### 文件一览（最新数据截止到2021-03-24，请保持更新）
 
-![](https://gitee.com/tec-cloud/gallery/raw/master/qrcode/WechatIMG290.jpeg)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2020/08/20200824235706.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2020/09/20200902105627.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2020/09/20200902105839.png)
@@ -117,12 +116,11 @@ gallery
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2020/11/20201124162100.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2020/11/20201124162130.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2020/11/20201130165951.png)
-![](https://gitee.com/tec-cloud/gallery/raw/master/2020/11/v2-9704c679095366bb7587db48d3312885_r.jpg)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2020/12/20201204144639.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2020/12/20201204145732.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2020/12/20201204165205.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2020/12/20201229183009.png)
-![](https://gitee.com/tec-cloud/gallery/raw/master/2020/12/config\ server\ compare.png)
+![](https://gitee.com/tec-cloud/gallery/raw/master/2020/12/config%20server%20compare.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2021/01/20210104173628.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2021/01/20210104182311.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2021/01/20210104182513.png)
@@ -152,6 +150,9 @@ gallery
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2021/03/20210318112926.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2021/03/20210324103941.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2021/03/20210324104755.png)
+![](https://gitee.com/tec-cloud/gallery/raw/master/2021/20210324112317.png)
+![](https://gitee.com/tec-cloud/gallery/raw/master/2021/20210324112404.png)
+![](https://gitee.com/tec-cloud/gallery/raw/master/qrcode/WechatIMG290.jpeg)
 
 
 Tips：
