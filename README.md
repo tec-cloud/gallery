@@ -20,7 +20,6 @@ gallery
 │   │   ├── 20200921163453.png
 │   │   └── 20200928112850.png
 │   ├── 10
-│   │   ├── 20201009162840.png
 │   │   ├── 20201016140931.png
 │   │   ├── 20201016160644.png
 │   │   ├── 20201018122338.png
@@ -76,6 +75,9 @@ gallery
 │       ├── 20210318112926.png
 │       ├── 20210324103941.png
 │       └── 20210324104755.png
+│   ├── 20210324112317.png
+│   ├── 20210324112404.png
+│   └── 20210324113648.png
 ├── README.md
 └── qrcode
     └── WechatIMG290.jpeg
@@ -97,7 +99,6 @@ gallery
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2020/09/20200914131218.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2020/09/20200921163453.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2020/09/20200928112850.png)
-![](https://gitee.com/tec-cloud/gallery/raw/master/2020/10/20201009162840.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2020/10/20201016140931.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2020/10/20201016160644.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2020/10/20201018122338.png)
@@ -149,6 +150,7 @@ gallery
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2021/03/20210324104755.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2021/20210324112317.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2021/20210324112404.png)
+![](https://gitee.com/tec-cloud/gallery/raw/master/2021/20210324113648.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/qrcode/WechatIMG290.jpeg)
 
 
