@@ -120,7 +120,6 @@ gallery
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2020/12/20201204145732.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2020/12/20201204165205.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2020/12/20201229183009.png)
-![](https://gitee.com/tec-cloud/gallery/raw/master/2020/12/config%20server%20compare.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2021/01/20210104173628.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2021/01/20210104182311.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2021/01/20210104182513.png)
