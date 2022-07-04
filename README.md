@@ -1,7 +1,10 @@
-## 图床Gallery
-软件：PicGO+Gitee
+## Gallery
 
-#### 文件列表
+个人博客图片备份，严禁公开及外传。
+版权归图片原作者所有。
+如有侵权，请联系359031282@qq.com。
+
+#### 文件列表（按日期上传备份）
 <details>
 <summary>展开查看树形结构</summary>
 <pre><code>
@@ -87,7 +90,7 @@ gallery
 #### 数据统计
 11 directories, 63 files
 
-#### 文件一览（最新数据截止到2021-03-24，请保持更新）
+#### 内部非公开文件一览链接（最新数据截止到2021-03-24，请保持更新）
 
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2020/08/20200824235706.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2020/09/20200902105627.png)
