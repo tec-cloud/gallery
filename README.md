@@ -91,7 +91,7 @@ gallery
 11 directories, 63 files
 
 #### 内部非公开文件一览链接（最新数据截止到2021-03-24，请保持更新）
-
+    https://gitee.com/tec-cloud/gallery/raw/master/2020/08/20200824235706.png
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2020/08/20200824235706.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2020/09/20200902105627.png)
 ![](https://gitee.com/tec-cloud/gallery/raw/master/2020/09/20200902105839.png)
